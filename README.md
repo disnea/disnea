@@ -9,7 +9,6 @@
 <h1 align="center"><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hi there, I'm Marisa Yaswant! 👋</h1>
 <h3 align="center">AIML learner and Web Developer</h3>
 <p align="center">
-    <a href="https://manikantagangam.github.io" target="_blank"><img alt="Website" src="https://img.shields.io/badge/website-%23117AC9.svg?&style=for-the-badge&logo=google-chrome&logoColor=white" /></a>
     <!-- <a href="https://manikantagangam.github.io" target="_blank"><img alt="Website" src="https://img.shields.io/badge/website-%23117AC9.svg?&style=for-the-badge&logo=webcomponents.org&logoColor=white" />
     </a> -->
     <a href="https://github.com/disnea" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a>
