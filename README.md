@@ -14,7 +14,7 @@
     <a href="https://github.com/disnea" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a>
     <a href="https://www.linkedin.com/in/yaswant-marisa-365a621a8" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="mailto:e21cseu0417@bennett.edu.in" target="_blank"><img alt="Email" src="https://img.shields.io/badge/email-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>
-<!-- <a href="https://www.instagram.com/manikanta_gangam" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" /></a> -->
+<!-- <a href="https://www.instagram.com/yaswant.marisa" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" /></a> -->
     <a href="https://github.com/disnea"><img alt="followers" title="Follow me on Github" src="https://img.shields.io/github/followers/disnea?color=236ad3&style=for-the-badge&logo=github&label=Follow"/></a>
 </p>
 
@@ -32,7 +32,7 @@
 <br></br>
 
 <h2 align="center">🛠️ Technical Skills 🛠️</h2>
-<p align="center"> <a href="https://github.com/manikantagangam"><img src="https://skillicons.dev/icons?i=python,c,cpp,java,html,css,js,bootstrap,react,django,nodejs,mysql,mongodb,tensorflow,flask,pytorch,vscode,replit,eclipse,idea,postman,github,git,bash,aws,matlab,figma,linux,latex,markdown"> </a> </p>
+<p align="center"> <a href="https://github.com/disnea"><img src="https://skillicons.dev/icons?i=python,c,cpp,java,html,css,js,bootstrap,react,django,nodejs,mysql,mongodb,tensorflow,flask,pytorch,vscode,replit,eclipse,idea,postman,github,git,bash,aws,matlab,figma,linux,latex,markdown"> </a> </p>
 
 <br></br>
 
@@ -44,10 +44,10 @@
 <!-- ![Python](https://img.shields.io/badge/Python-FFD43B?style=flat&logo=python&logoColor=darkgreen)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white) -->
-<!-- <p align="left"> <a href="https://github.com/manikantagangam"><img src="https://skillicons.dev/icons?i=python,cpp,java"> </a> </p> -->
+<!-- <p align="left"> <a href="https://github.com/disnea"><img src="https://skillicons.dev/icons?i=python,cpp,java"> </a> </p> -->
 
 <!-- <h5>Web Development</h5>
-<p align="left"> <a href="https://github.com/manikantagangam"><img src="https://skillicons.dev/icons?i=html,css,js"> </a> </p> -->
+<p align="left"> <a href="https://github.com/disnea"><img src="https://skillicons.dev/icons?i=html,css,js"> </a> </p> -->
 <!-- ![Html](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 ![Css](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 ![Javascript](https://img.shields.io/badge/JavaScript-323330?style=flat&logo=javascript&logoColor=F7DF1E) -->
@@ -56,15 +56,15 @@
 
 <!-- ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white) -->
-<!-- <p align="left"> <a href="https://github.com/manikantagangam"><img src="https://skillicons.dev/icons?i=mysql,mongodb"> </a> </p> -->
+<!-- <p align="left"> <a href="https://github.com/disnea"><img src="https://skillicons.dev/icons?i=mysql,mongodb"> </a> </p> -->
 
 <!-- <h5>Data Analysis</h5>
 <p align="left">
-<a href="https://github.com/manikantagangam">
+<a href="https://github.com/disnea">
 <img alt="NumPy" title="NumPy" height="48" width="48" src="https://cdn.simpleicons.org/numpy"></a>
-<a href="https://github.com/manikantagangam">
+<a href="https://github.com/disnea">
 <img alt="pandas" title="pandas" height="48" width="48" src="https://cdn.simpleicons.org/pandas"></a>
-<a href="https://github.com/manikantagangam">
+<a href="https://github.com/disnea">
 <img alt="scikitlearn" title="scikitlearn" height="48" width="48" src="https://cdn.simpleicons.org/scikitlearn"></a>
 </p> -->
 
@@ -84,7 +84,7 @@
 ![SVC](https://img.shields.io/badge/Clustering-F24E1E?style=flat&logo=python&logoColor=white)
 
 <h5>Tools</h5>
-<p align="left"> <a href="https://github.com/manikantagangam"><img src="https://skillicons.dev/icons?i=vscode,replit,eclipse,postman,github,git,aws,matlab,figma,markdown"> </a> </p> -->
+<p align="left"> <a href="https://github.com/disnea"><img src="https://skillicons.dev/icons?i=vscode,replit,eclipse,postman,github,git,aws,matlab,figma,markdown"> </a> </p> -->
 <!-- ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
@@ -94,6 +94,6 @@
 <br></br>
 
 <!-- <p align="center">
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=manikantagangam&hide_border=true&show_icons=true&count_private=true&theme=gruvbox&bg_color=151515">
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=disnea&hide_border=true&show_icons=true&count_private=true&theme=gruvbox&bg_color=151515">
 </p> -->
 <!-- <hr></hr> -->
